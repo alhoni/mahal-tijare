@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "602936306771",
+    "project_id": "mahal-tijare",
+    "storage_bucket": "mahal-tijare.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602936306771:android:bbb4aea2fae7a7f7d96aa6",
+        "android_client_info": {
+          "package_name": "com.example.edarat_almahal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602936306771-dtqplknqme3dr2o9acc8ridmkamruilm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuAPjs5vZ6vShHbil2gXmsVFOVNijOUTo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "602936306771-dtqplknqme3dr2o9acc8ridmkamruilm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "602936306771-ctjljr3ur6caq3dgmhaj9ec9rl0a0gdk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.edaratAlmahal"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602936306771:android:480ba966729053bfd96aa6",
+        "android_client_info": {
+          "package_name": "com.example.mahal_tijare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602936306771-dtqplknqme3dr2o9acc8ridmkamruilm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuAPjs5vZ6vShHbil2gXmsVFOVNijOUTo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "602936306771-dtqplknqme3dr2o9acc8ridmkamruilm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "602936306771-ctjljr3ur6caq3dgmhaj9ec9rl0a0gdk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.edaratAlmahal"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

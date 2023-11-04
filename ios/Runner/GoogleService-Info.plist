@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>602936306771-vrathnsl89r3uskt34j2cjn4q5eo0ct4.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.602936306771-vrathnsl89r3uskt34j2cjn4q5eo0ct4</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDwKH6CexI1ngi2c8BHtvW_RQv32OIe218</string>
+	<key>GCM_SENDER_ID</key>
+	<string>602936306771</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.mahalTijare</string>
+	<key>PROJECT_ID</key>
+	<string>mahal-tijare</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mahal-tijare.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:602936306771:ios:79dc26f0d0d33b7bd96aa6</string>
+</dict>
+</plist>
